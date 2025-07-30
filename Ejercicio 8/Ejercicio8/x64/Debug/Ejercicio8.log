@@ -1,0 +1,3 @@
+﻿  Ejercicio8.cpp
+C:\Users\micha\OneDrive\Escritorio\Ejercicios C++\Ejercicio8\Ejercicio8\Ejercicio8.cpp(6,16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Ejercicio8.vcxproj -> C:\Users\micha\OneDrive\Escritorio\Ejercicios C++\Ejercicio8\x64\Debug\Ejercicio8.exe
